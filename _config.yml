@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Saurabh Prakash"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "A generalist with focus on developing products and services."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
